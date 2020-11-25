@@ -1,5 +1,5 @@
 # Real Time Car Price Predictor
-Predicts price of your current car to be sold
+Predict selling price of your car
 
 # Model
 -Inital data cleaning & statistics  
