@@ -14,7 +14,7 @@ The trained model flask app is deployed on Heroku platform.
 # Accesing the application
 Click here: https://elastic-car-price-prediction.herokuapp.com/  
 
-
+![1](https://user-images.githubusercontent.com/31846605/100237390-e1facb00-2f54-11eb-9f35-42dcce8039ed.png)
 
 ## Form Fields
 Owner-Type : First Owner 0, Second Owner 1  
