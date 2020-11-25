@@ -9,7 +9,7 @@ Predicts price of your current car to be sold
 # Model API
 The solutions uses Flask, HTML and CSS to generate the API and local web app
 
-# Deploying the model
+# Model Deployment
 The trained model flask app is deployed on Heroku platform. 
 
 # Accesing the application
