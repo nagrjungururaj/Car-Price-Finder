@@ -1,4 +1,4 @@
-# Car-Price-Finder
+# Real Time Car Price Predictor
 Predicts price of your current car to be sold
 
 # Model
