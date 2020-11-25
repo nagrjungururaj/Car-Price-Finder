@@ -1,9 +1,10 @@
 # Car-Price-Finder
 Predicts price of your current car to be sold
 
-# About the model
-Feature selction using random forests is done to find feature importances  
-Uses an elastic regression model to predict the price of cars using the feature columns of "car data.csv"
+# Model
+-Inital data cleaning & statistics  
+-Feature selection using random forests is done to find feature importances  
+-Uses an elastic regression model to predict the price of cars using the feature columns of "car data.csv"
 
 # Model API
 The solutions uses Flask, HTML and CSS to generate the API and local web app
