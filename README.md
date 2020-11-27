@@ -3,7 +3,7 @@ Predict selling price of your car
 
 # Model
 -Inital data cleaning & statistics  
--Feature selection using random forests is done to find feature importances  
+-Feature selection using ExtraTreesRegressor is done to find feature importances  
 -Uses an elastic regression model to predict the price of cars using the feature columns of "car data.csv"
 
 # Model API
